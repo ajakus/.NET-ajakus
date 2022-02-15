@@ -1,0 +1,15 @@
+C:\Users\jakus\source\repos\A3- StringInterp\bin\Debug\net6.0\A3- StringInterp.exe
+C:\Users\jakus\source\repos\A3- StringInterp\bin\Debug\net6.0\A3- StringInterp.deps.json
+C:\Users\jakus\source\repos\A3- StringInterp\bin\Debug\net6.0\A3- StringInterp.runtimeconfig.json
+C:\Users\jakus\source\repos\A3- StringInterp\bin\Debug\net6.0\A3- StringInterp.dll
+C:\Users\jakus\source\repos\A3- StringInterp\bin\Debug\net6.0\ref\A3- StringInterp.dll
+C:\Users\jakus\source\repos\A3- StringInterp\bin\Debug\net6.0\A3- StringInterp.pdb
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.csproj.AssemblyReference.cache
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.AssemblyInfoInputs.cache
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.AssemblyInfo.cs
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.csproj.CoreCompileInputs.cache
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.dll
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\ref\A3- StringInterp.dll
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.pdb
+C:\Users\jakus\source\repos\A3- StringInterp\obj\Debug\net6.0\A3- StringInterp.genruntimeconfig.cache
